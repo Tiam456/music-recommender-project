@@ -1,0 +1,27 @@
+master node: 16 vcpus and worker nodes: 2*8vcpus 
+time consumed when similarity = 0.1: 1431.7258877754211
+time consumed when similarity = 0.2: 1656.5868866443634
+time consumed when similarity = 0.3: 1092.666567325592
+time consumed when similarity = 0.4: 1053.6226177215576
+time consumed when similarity = 0.5: 1005.7532210350037
+time consumed when similarity = 0.6: 969.7162618637085
+time consumed when similarity = 0.7: 867.6771032810211
+
+master node: 16 vcpus and worker nodes: 3*8vcpus
+time consumed when 3 nodes and similarity = 0.1: 2086.089996576309
+time consumed when 3 nodes and similarity = 0.2: 1775.274890422821
+time consumed when 3 nodes and similarity = 0.3: 1314.4483664035797
+time consumed when 3 nodes and similarity = 0.4: 1114.7282025814056
+time consumed when 3 nodes and similarity = 0.5: 1033.1562402248383
+
+master node: 16 vcpus and worker nodes: 4*8vcpus 
+time consumed when 4 nodes and similarity = 0.1: 669.1193559169769
+time consumed when 4 nodes and similarity = 0.2: 615.0761647224426
+time consumed when 4 nodes and similarity = 0.3: 584.3689029216766	
+time consumed when 4 nodes and similarity = 0.4: 578.1778109073639
+time consumed when 4 nodes and similarity = 0.5: 560.797253370285
+
+master node: 16 vcpus and worker nodes: 4*4vcpus
+time consumed when 4 nodes and similarity = 0.5: 7110.835877418518
+time consumed when 4 nodes and similarity = 0.6: 3237.6547009944916
+time consumed when 4 nodes and similarity = 0.7: 2339.5822174549103

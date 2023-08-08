@@ -1,0 +1,36 @@
+master node: n1-standard-32
+
+worker node: n1-standard-16 
+
+number of worker nodes: 2
+
+Experiment: restrict the number of tracks in a playlists to be only 10. 
+Hence, we can restrict our input data to have number of rows grow faster than the number of columns. 
+
+similarity threshold: 0.3
+
+number of playlists: 50000
+number of users: 47696
+number of items: 125633
+time taken: 173.91942882537842
+
+number of users: 95330
+number of items: 195847
+time taken: 326.9017074108124
+
+number of users: 143002
+number of items: 255778
+time taken: 399.88758301734924
+
+number of users: 190544
+number of items: 300931
+time taken: 552.1276495456696
+
+number of users: 238230
+number of items: 344422
+time taken: 677.5848219394684
+
+
+
+
+
