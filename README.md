@@ -1,4 +1,4 @@
-# ST446 course project
+# Spotify music recommender system coursework project
 
 ## Project task
 
